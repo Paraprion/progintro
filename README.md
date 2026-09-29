@@ -1,2 +1,7 @@
 # progintro
-První veřejný repozitář. 
+První veřejný repozitář.
+
+
+
+
+added readme
